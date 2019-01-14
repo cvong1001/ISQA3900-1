@@ -16,7 +16,10 @@ body {
     width: 95%;
     max-width: 1200px;
     margin: 15px;
-	  background-color: #ff4d4d;
+	  background-color: #B9C1D9;
+    border-style: groove;
+    border-radius: 15px 15px 15px 15px;
+    text-align: left;
 
 }
 
@@ -55,20 +58,6 @@ section.information {
 
 section.information h1{text-align: center;}
 
-section.information aside {
-    background-color: black;
-}
-
-section.information th {
-    background-color: white;
-}
-
-section.information td {
-    background-color: white;
-}
-
-section.information td:hover {
-    background-color: red;
 }
 
 #one{
