@@ -52,28 +52,7 @@ nav ul li a {
     text-decoration: none;
 }
 
-section.information {
-    padding: 0px 10px;
 }
-
-section.information h1{text-align: center;}
-
-}
-
-#one{
-width:50%;
-padding-bottom: 15px;
-margin: auto;}
-
-#two{
-width:50%;
-padding-bottom: 15px;
-margin: auto;}
-
-#three{
-width:50%;
-padding-bottom: 15px;
-margin: auto;}
 
 iframe
 {
@@ -92,6 +71,6 @@ img
 footer
 {
     text-align: center;
-    color: white;
+    color: black;
     font-size: 85%;
 }
